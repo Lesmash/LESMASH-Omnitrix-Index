@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Heatblast",
+        "image": "🔥",
+        "power": "Pyrokinesis",
+        "color": "Red",
+        "description": "Heatblast can create and control fire.",
+        "debutEpisode": "And Then There Were 10",
+        "firstWin": "And Then There Were 10"
+    },
+    {
+        "name": "Wildmutt",
+        "image": "🐾",
+        "power": "Enhanced senses",
+        "color": "Orange",
+        "description": "Wildmutt has heightened senses of smell and hearing.",
+        "debutEpisode": "And Then There Were 10",
+        "firstWin": "And Then There Were 10"
+    },
+    {
+        "name": "Diamondhead",
+        "image": "💎",
+        "power": "Crystal manipulation",
+        "color": "Blue",
+        "description": "Diamondhead can create and manipulate crystal structures.",
+        "debutEpisode": "And Then There Were 10",
+        "firstWin": "And Then There Were 10"
+    },
+    {
+        "name": "XLR8",
+        "image": "⚡",
+        "power": "Super speed",
+        "color": "Black",
+        "description": "XLR8 can move at incredibly high speeds.",
+        "debutEpisode": "And Then There Were 10",
+        "firstWin": "And Then There Were 10"
+    },
+    {
+        "name": "Grey Matter",
+        "image": "🧠",
+        "power": "Enhanced intellect",
+        "color": "Gray",
+        "description": "Grey Matter has an advanced intellect and can create complex machines.",
+        "debutEpisode": "Washington B.C.",
+        "firstWin": "Washington B.C."
+    },
+    {
+        "name": "Four Arms",
+        "image": "💪",
+        "power": "Super strength",
+        "color": "Red",
+        "description": "Four Arms possesses immense strength and durability.",
+        "debutEpisode": "Washington B.C.",
+        "firstWin": "Washington B.C."
+    },
+    {
+        "name": "Stinkfly",
+        "image": "🦟",
+        "power": "Flight and toxic gas",
+        "color": "Green",
+        "description": "Stinkfly can fly and emit a noxious gas.",
+        "debutEpisode": "Washington B.C.",
+        "firstWin": "Washington B.C."
+    },
+    {
+        "name": "Ripjaws",
+        "image": "🦈",
+        "power": "Aquatic abilities",
+        "color": "Green",
+        "description": "Ripjaws can breathe underwater and has powerful jaws.",
+        "debutEpisode": "Washington B.C.",
+        "firstWin": "Washington B.C."
+    },
+    {
+        "name": "Upgrade",
+        "image": "🖥️",
+        "power": "Technological assimilation",
+        "color": "Black",
+        "description": "Upgrade can merge with and control technology.",
+        "debutEpisode": "Permanent Retirement",
+        "firstWin": "Permanent Retirement"
+    },
+    {
+        "name": "Ghostfreak",
+        "image": "👻",
+        "power": "Intangibility and invisibility",
+        "color": "White",
+        "description": "Ghostfreak can become invisible and phase through objects.",
+        "debutEpisode": "Permanent Retirement",
+        "firstWin": "Permanent Retirement"
+    },
+    {
+        "name": "Cannonbolt",
+        "image": "🔵",
+        "power": "Rolling and invulnerability",
+        "color": "Yellow",
+        "description": "Cannonbolt can curl into a ball and become nearly invulnerable.",
+        "debutEpisode": "The Big Tick",
+        "firstWin": "The Big Tick"
+    },
+    {
+        "name": "Wildvine",
+        "image": "🌿",
+        "power": "Plant manipulation",
+        "color": "Green",
+        "description": "Wildvine can control plants and generate seeds.",
+        "debutEpisode": "Camp Fear",
+        "firstWin": "Camp Fear"
+    },
+    {
+        "name": "Upchuck",
+        "image": "🤢",
+        "power": "Acidic vomit",
+        "color": "Green",
+        "description": "Upchuck can consume and regurgitate anything with acidic properties.",
+        "debutEpisode": "The Visitor",
+        "firstWin": "The Visitor"
+    },
+    {
+        "name": "Ditto",
+        "image": "👬",
+        "power": "Duplication",
+        "color": "White",
+        "description": "Ditto can create multiple copies of himself.",
+        "debutEpisode": "Divided We Stand",
+        "firstWin": "Divided We Stand"
+    },
+    {
+        "name": "Eye Guy",
+        "image": "👁️",
+        "power": "Energy blasts",
+        "color": "Yellow",
+        "description": "Eye Guy can shoot energy beams from his eyes.",
+        "debutEpisode": "Ben 10,000",
+        "firstWin": "Ben 10,000"
+    },
+    {
+        "name": "Way Big",
+        "image": "🌌",
+        "power": "Gigantification",
+        "color": "Red",
+        "description": "Way Big can grow to a colossal size and has immense strength.",
+        "debutEpisode": "Ben 10: Secret of the Omnitrix",
+        "firstWin": "Ben 10: Secret of the Omnitrix"
+    },
+    {
+        "name": "Arctiguana",
+        "image": "❄️",
+        "power": "Cryokinesis",
+        "color": "Blue",
+        "description": "Arctiguana can generate and control ice.",
+        "debutEpisode": "Ken 10",
+        "firstWin": "Ken 10"
+    },
+    {
+        "name": "Buzzshock",
+        "image": "⚡",
+        "power": "Electrokinesis",
+        "color": "Yellow",
+        "description": "Buzzshock can generate and control electricity.",
+        "debutEpisode": "Ken 10",
+        "firstWin": "Ken 10"
+    },
+    {
+        "name": "Spitter",
+        "image": "💦",
+        "power": "Water expulsion",
+        "color": "Blue",
+        "description": "Spitter can expel pressurized water from his mouth.",
+        "debutEpisode": "Ken 10",
+        "firstWin": "Ken 10"
+    },
+    {
+        "name": "Snare-oh",
+        "image": "🧟",
+        "power": "Elasticity",
+        "color": "Gray",
+        "description": "Snare-oh can stretch and manipulate his bandages.",
+        "debutEpisode": "Ken 10",
+        "firstWin": "Ken 10"
+    },
+    {
+        "name": "Swampfire",
+        "image": "🌱",
+        "power": "Pyrokinesis and regeneration",
+        "color": "Green",
+        "description": "Swampfire can generate fire and regenerate his body.",
+        "debutEpisode": "Ben 10 Returns: Part 1",
+        "firstWin": "Ben 10 Returns: Part 1"
+    },
+    {
+        "name": "Echo Echo",
+        "image": "🔊",
+        "power": "Sonic screams and duplication",
+        "color": "White",
+        "description": "Echo Echo can emit powerful sonic waves and create duplicates of himself.",
+        "debutEpisode": "Ben 10 Returns: Part 1",
+        "firstWin": "Ben 10 Returns: Part 1"
+    },
+    {
+        "name": "Humungousaur",
+        "image": "🦖",
+        "power": "Size and strength increase",
+        "color": "Brown",
+        "description": "Humungousaur can grow in size and has immense strength.",
+        "debutEpisode": "Ben 10 Returns: Part 1",
+        "firstWin": "Ben 10 Returns: Part 1"
+    },
+    {
+        "name": "Big Chill",
+        "image": "./images/Bigchill.png",
+        "power": "Cryokinesis and intangibility",
+        "color": "Blue",
+        "description": "Big Chill can generate ice and become intangible.",
+        "debutEpisode": "Kevin's Big Score",
+        "firstWin": "Kevin's Big Score"
+    },
+    {
+        "name": "Jetray",
+        "image": "🛸",
+        "power": "Flight and neuroshock blasts",
+        "color": "Red",
+        "description": "Jetray can fly at incredible speeds and shoot neuroshock blasts.",
+        "debutEpisode": "Everybody Talks About the Weather",
+        "firstWin": "Everybody Talks About the Weather"
+    },
+    {
+        "name": "Chromastone",
+        "image": "💎",
+        "power": "Energy absorption and projection",
+        "color": "Purple",
+        "description": "Chromastone can absorb and project energy.",
+        "debutEpisode": "All That Glitters",
+        "firstWin": "All That Glitters"
+    },
+    {
+        "name": "Brainstorm",
+        "image": "🦀",
+        "power": "Electrokinesis and super intelligence",
+        "color": "Yellow",
+        "description": "Brainstorm can generate electricity and has enhanced intelligence.",
+        "debutEpisode": "Pier Pressure",
+        "firstWin": "Pier Pressure"
+    },
+    {
+        "name": "Spidermonkey",
+        "image": "🕷️",
+        "power": "Wall-crawling and web generation",
+        "color": "Blue",
+        "description": "Spidermonkey can climb walls and shoot webs.",
+        "debutEpisode": "What Are Little Girls Made Of?",
+        "firstWin": "What Are Little Girls Made Of?"
+    },
+    {
+        "name": "Goop",
+        "image": "🧪",
+        "power": "Liquid form and shape-shifting",
+        "color": "Green",
+        "description": "Goop can change his shape and become a liquid.",
+        "debutEpisode": "The Gauntlet",
+        "firstWin": "The Gauntlet"
+    },
+    {
+        "name": "Alien X",
+        "image": "⚫",
+        "power": "Reality manipulation",
+        "color": "Black",
+        "description": "Alien X can manipulate reality and has nearly omnipotent abilities.",
+        "debutEpisode": "X = Ben + 2",
+        "firstWin": "X = Ben + 2"
+    },
+    {
+        "name": "Lodestar",
+        "image": "🧲",
+        "power": "Magnetism",
+        "color": "Black",
+        "description": "Lodestar can control magnetic fields.",
+        "debutEpisode": "Simple",
+        "firstWin": "Simple"
+    },
+    {
+        "name": "Rath",
+        "image": "🐅",
+        "power": "Super strength and agility",
+        "color": "Orange",
+        "description": "Rath has immense strength and agility.",
+        "debutEpisode": "Con of Rath",
+        "firstWin": "Con of Rath"
+    },
+    {
+        "name": "Nanomech",
+        "image": "🔬",
+        "power": "Size reduction and energy blasts",
+        "color": "Gray",
+        "description": "Nanomech can shrink to a microscopic size and shoot energy blasts.",
+        "debutEpisode": "Ben 10: Alien Swarm",
+        "firstWin": "Ben 10: Alien Swarm"
+    },
+    {
+        "name": "Water Hazard",
+        "image": "💧",
+        "power": "Water manipulation",
+        "color": "Red",
+        "description": "Water Hazard can generate and control water.",
+        "debutEpisode": "Fame",
+        "firstWin": "Fame"
+    },
+    {
+        "name": "Ampfibian",
+        "image": "⚡",
+        "power": "Electrokinesis and intangibility",
+        "color": "Blue",
+        "description": "Ampfibian can generate electricity and become intangible.",
+        "debutEpisode": "Fame",
+        "firstWin": "Fame"
+    },
+    {
+        "name": "Armodrillo",
+        "image": "🦾",
+        "power": "Seismic strength and drills",
+        "color": "Yellow",
+        "description": "Armodrillo can create earthquakes and has powerful drills.",
+        "debutEpisode": "Andreas' Fault",
+        "firstWin": "Andreas' Fault"
+    },
+    {
+        "name": "Terraspin",
+        "image": "🌪️",
+        "power": "Air manipulation and flight",
+        "color": "Green",
+        "description": "Terraspin can create powerful winds and fly.",
+        "debutEpisode": "Reflected Glory",
+        "firstWin": "Reflected Glory"
+    },
+    {
+        "name": "NRG",
+        "image": "☢️",
+        "power": "Radiation and heat generation",
+        "color": "Red",
+        "description": "NRG can generate and manipulate radiation and heat.",
+        "debutEpisode": "Hit 'Em Where They Live",
+        "firstWin": "Hit 'Em Where They Live"
+    },
+    {
+        "name": "Fasttrack",
+        "image": "🚄",
+        "power": "Super speed",
+        "color": "Blue",
+        "description": "Fasttrack can move at superhuman speeds.",
+        "debutEpisode": "Basic Training",
+        "firstWin": "Basic Training"
+    },
+    {
+        "name": "Chameleon",
+        "image": "🦎",
+        "power": "Invisibility and shape-shifting",
+        "color": "Green",
+        "description": "Chameleon can become invisible and change his shape.",
+        "debutEpisode": "The Eggman Cometh",
+        "firstWin": "The Eggman Cometh"
+    }
+]
