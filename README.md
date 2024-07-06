@@ -46,18 +46,17 @@ Welcome to the LESMASH Omnitrix Index, a comprehensive database of Ben 10 aliens
 
 ## Usage
 
-- Use the left and right arrow keys to navigate through the list of aliens.
-- Press `r` to switch to Albedo mode.
+- Use the left and right arrow keys to navigate through the list of aliens to find out more about them.
 
 ## Contributing
 
 We welcome contributions to enhance the LESMASH Omnitrix Index. To contribute, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
+2. Create a new branch (`git checkout -b features-branch`).
 3. Make your changes.
 4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
+5. Push to the branch (`git push origin features-branch`).
 6. Create a new Pull Request.
 
 ## License
@@ -68,3 +67,4 @@ This project is not licensed for now.
 
 - **Ben 10** was created by Man of Action and is owned by Cartoon Network.
 - Inspired by the Ben 10 series and its vast array of aliens.
+- Omnitrix design was made by Yuri-stack
